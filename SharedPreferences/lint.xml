@@ -26,4 +26,5 @@
         <ignore path="res\layout\login.xml" />
     </issue>
     <issue id="UselessParent" severity="ignore" />
+    <issue id="UselessParent" severity="ignore" />
 </lint>
